@@ -17,7 +17,7 @@
     "subItemIndent": "10px"
   },
   "colors": {
-    "backgroundColor": "#9cacff87",
+    "backgroundColor": "#9cacff00",
     "menuHoverColor": "#ffffff80",
     "dropdownColor": "#0a0057ed",
     "dropdownHoverColor": "#ffffff80"
@@ -44,7 +44,7 @@
       "marginBottom": "4px"
     },
     "menuText": {
-      "fontFamily": "fontStack3",
+      "fontFamily": "fontStack1",
       "fontWeight": "400",
       "fontStyle": "normal",
       "fontSize": "1.5rem",

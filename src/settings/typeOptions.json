@@ -17,19 +17,19 @@
     "fontFamily": "fontStack1",
     "fontWeight": "700",
     "fontStyle": "normal",
-    "fontSize": "2rem",
+    "fontSize": "60px",
     "lineHeight": 1.5,
-    "color": "#000000",
-    "marginTop": "1em",
-    "marginBottom": "2em"
+    "color": "#ffffff",
+    "marginTop": "20px",
+    "marginBottom": "20px"
   },
   "h2": {
     "fontFamily": "fontStack1",
-    "fontWeight": "700",
+    "fontWeight": "500",
     "fontStyle": "normal",
-    "fontSize": "1.5rem",
+    "fontSize": "40px",
     "lineHeight": 1.25,
-    "color": "#000000",
+    "color": "#6b2322",
     "marginTop": "0.5em",
     "marginBottom": "0.5em"
   },
@@ -37,9 +37,9 @@
     "fontFamily": "fontStack1",
     "fontWeight": "700",
     "fontStyle": "normal",
-    "fontSize": "1.17NaNrem",
+    "fontSize": "20px",
     "lineHeight": 1.25,
-    "color": "",
+    "color": "#6b2322",
     "marginTop": "1em",
     "marginBottom": "1em"
   },
