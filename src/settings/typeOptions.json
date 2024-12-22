@@ -35,7 +35,7 @@
   },
   "h3": {
     "fontFamily": "fontStack1",
-    "fontWeight": "700",
+    "fontWeight": "500",
     "fontStyle": "normal",
     "fontSize": "30px",
     "lineHeight": 1.25,
@@ -45,11 +45,11 @@
   },
   "h4": {
     "fontFamily": "fontStack1",
-    "fontWeight": "700",
+    "fontWeight": "500",
     "fontStyle": "normal",
-    "fontSize": "1NaNrem",
+    "fontSize": "22px",
     "lineHeight": 1.25,
-    "color": "",
+    "color": "#6b2322",
     "marginTop": "1em",
     "marginBottom": "1em"
   },
